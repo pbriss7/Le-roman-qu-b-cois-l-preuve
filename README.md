@@ -5,8 +5,10 @@ Données et code accompagnant l'article du même titre, à paraître dans la rev
 intermédiaires ? »**, dirigé par Karol'Ann Boivin et Julien Lefort-Favreau.
 
 **Auteurs de l'article :** Michel Biron (Université McGill) et Pascal Brissette (Université McGill).
+
 **Auteur du code et responsable du dépôt :** Pascal Brissette.
-**Contact :** *(à compléter)*
+
+**Contact :** *pascal.brissette@mcgill.ca*
 
 ---
 
