@@ -138,5 +138,6 @@ Pour le présent dépôt :
   catalogue de Bibliothèque et Archives nationales du Québec (BAnQ). Leur
   rediffusion dans ce dépôt a été autorisée par BAnQ ; toute réutilisation doit
   mentionner la source. *(Licence précise à confirmer avec BAnQ avant dépôt.)*
-- **`methode.R`, `README.md` et les figures** : *
-  Creative Commons Attribution 4.0 International — CC BY 4.0.*
+- **`methode.R`, `README.md` et les figures** : 
+
+*Creative Commons Attribution 4.0 International — CC BY 4.0.*
