@@ -29,14 +29,13 @@ Ce dépôt suit un modèle minimaliste :
 ## Le corpus
 
 L'article travaille sur un corpus d'environ 7 800 romans québécois pour adultes
-et adolescents, parus entre 2000 et 2021. Ce corpus est un objet construit : il
-résulte d'une liste initiale de plus de 24 000 titres fournie par les
+et adolescents, parus entre 2000 et 2021. Ce corpus résulte d'une liste 
+initiale de plus de 24 000 titres fournie par les
 bibliothécaires de Bibliothèque et Archives nationales du Québec (BAnQ),
 révisée et réduite d'environ les deux tiers par une équipe d'assistants de
-recherche de l'Université McGill, selon les critères de sélection exposés dans
-l'article (romans québécois de langue française, première édition durant la
-période, exclusion des traductions, rééditions, publications à compte d'auteur
-et éditeurs éphémères).
+recherche de l'Université McGill: Salomé Landry, Ophélie Proulx-Giraldeau, 
+Marie Chartrand-Caulet, Guillaume Sirois et Marianne Ducharme, 
+sous la supervision de Michel Biron.
 
 ### Structure de `corpus_notices.csv`
 
@@ -47,24 +46,19 @@ et éditeurs éphémères).
 
 Le fichier compte 7 813 lignes (une par roman du corpus analysé).
 
-Cette table est l'**ancrage** du corpus : elle permet à un autre chercheur de
-reconstituer la liste des œuvres en interrogeant le catalogue de BAnQ à partir
-des numéros de notice et des ISBN, puis d'y appliquer les opérations de
-nettoyage et de catégorisation décrites dans l'article.
 
 ---
 
 ## Conditions de diffusion des données
 
-BAnQ a autorisé la diffusion de la seule table d'ancrage à deux champs
+BAnQ a autorisé la diffusion de la seule table à deux champs
 (`corpus_notices.csv`). **Les notices complètes — titre, auteur, éditeur, lieu
-d'édition, année, descripteurs de sujet — ne peuvent être rediffusées
-intégralement** et ne figurent donc pas dans ce dépôt.
+d'édition, année, descripteurs de sujet — ne peuvent être rediffusées** et 
+ne figurent donc pas dans ce dépôt.
 
 En conséquence, `methode.R` **n'est pas exécutable en l'état**. Sa vocation
-n'est pas la reproduction systématique des chiffres — impossible sans les
-données complètes — mais l'exposition transparente de la **méthode** : il
-montre, pour chaque résultat de l'article, comment il a été obtenu. Le script
+n'est pas la reproduction des résultats, mais l'exposition de la **méthode** :
+il montre, pour chaque résultat de l'article, comment il a été obtenu. Le script
 suppose un sous-répertoire `data/` contenant les tables de travail
 (`livres.csv`, `sujets.csv`, `genres.csv`, `categories_geo.csv`) ; les colonnes
 attendues sont déclarées en tête du fichier.
@@ -107,12 +101,6 @@ qu'imprimés ; la construction des deux figures de l'article y figure également
 
 ## Limites
 
-- Le corpus ne capte pas « toute la littérature québécoise » : il capte ce qui
-  a été soumis au dépôt légal, indexé par BAnQ, puis retenu selon les critères
-  de l'article. C'est un *capta*, un construit, et non une donnée donnée.
-- Les descripteurs de sujet sont des vedettes-matières attribuées par les
-  bibliothécaires ; leur usage a pu évoluer au cours de la période. L'article
-  consacre plusieurs tests à cette question (voir la section III).
 - `corpus_notices.csv` fige le corpus dans l'état où il a servi à l'article. Le
   catalogue de BAnQ, lui, continue d'évoluer : une reconstitution ultérieure
   des notices pourra donc différer à la marge de celle utilisée ici.
@@ -121,11 +109,12 @@ qu'imprimés ; la construction des deux figures de l'article y figure également
 
 ## Annexes de l'article
 
-Trois annexes statistiques accompagnent l'article (et non le présent dépôt) :
-la table des éditeurs du corpus, la distribution annuelle des descripteurs
-principaux et une vue synthétique des sous-corpus thématiques. Elles sont
-produites par le script `annexes/produire_annexes.R` et relèvent, comme les
-autres agrégats, des résultats librement diffusables.
+Trois annexes statistiques accompagnent l'article :
+
+- la table des éditeurs du corpus
+- la distribution annuelle des descripteurs
+principaux
+- une vue synthétique des sous-corpus thématiques
 
 ---
 
@@ -140,7 +129,6 @@ Pour le présent dépôt :
 
 > Brissette, P. (2026). *Données et code de « Le roman québécois contemporain
 > à l'épreuve de la lecture distanciée (2000-2021) »* \[jeu de données\].
-> Borealis. *(DOI à compléter une fois le dépôt enregistré.)*
 
 ---
 
@@ -150,5 +138,5 @@ Pour le présent dépôt :
   catalogue de Bibliothèque et Archives nationales du Québec (BAnQ). Leur
   rediffusion dans ce dépôt a été autorisée par BAnQ ; toute réutilisation doit
   mentionner la source. *(Licence précise à confirmer avec BAnQ avant dépôt.)*
-- **`methode.R`, `README.md` et les figures** : *(licence à préciser, p. ex.
-  Creative Commons Attribution 4.0 International — CC BY 4.0.)*
+- **`methode.R`, `README.md` et les figures** : *
+  Creative Commons Attribution 4.0 International — CC BY 4.0.*

@@ -1,0 +1,310 @@
+# Annexe A — Table des editeurs du corpus (2000-2021)
+
+Les 304 éditeurs québécois du corpus (les éditeurs hors Québec sont exclus). Profil de persistance : Ponctuel = 1 à 5 années distinctes de publication ; Intermittent = 6 à 10 ; Pilier = 11 et plus. Zone : zone dominante de l'éditeur (Urbain = Montréal et Québec-ville ; Banlieue = RMR de Montréal et de Québec ; Régions = autres municipalités québécoises).
+
+| Éditeur | Profil | Zone | Lieu d'édition | Première année | Dernière année | Années actives | Titres |
+|---|---|---|---|---|---|---|---|
+| Leméac | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 22 | 338 |
+| Québec Amérique | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 22 | 331 |
+| Libre expression | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 22 | 282 |
+| Hurtubise | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 22 | 272 |
+| Les Éditeurs réunis | Pilier | Régions | Marieville, Québec | 2009 | 2021 | 13 | 263 |
+| XYZ | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 22 | 260 |
+| Boréal | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 22 | 232 |
+| VLB | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 22 | 207 |
+| AdA | Pilier | Banlieue | Varennes, Québec | 2001 | 2021 | 20 | 204 |
+| Triptyque | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 22 | 197 |
+| JCL | Pilier | Régions | Chicoutimi, Québec | 2000 | 2021 | 22 | 188 |
+| Saint-Jean | Pilier | Banlieue | Laval, Québec | 2000 | 2021 | 22 | 174 |
+| Alire | Pilier | Urbain | Québec, Québec | 2000 | 2021 | 22 | 134 |
+| L'Instant même | Pilier | Urbain | Québec, Québec | 2000 | 2021 | 22 | 133 |
+| Druide | Intermittent | Urbain | Montréal, Québec | 2012 | 2021 | 10 | 127 |
+| Éditions de Mortagne | Pilier | Banlieue | Boucherville, Québec | 2000 | 2021 | 21 | 125 |
+| Marchand de feuilles | Pilier | Urbain | Montréal, Québec | 2001 | 2021 | 21 | 95 |
+| Vents d'Ouest | Pilier | Régions | Gatineau, Québec | 2000 | 2020 | 20 | 90 |
+| Stanké | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 21 | 89 |
+| Le Quartanier | Pilier | Urbain | Montréal, Québec | 2003 | 2021 | 17 | 79 |
+| Fides | Pilier | Urbain | Montréal, Québec | 2001 | 2021 | 21 | 76 |
+| Héliotrope | Pilier | Urbain | Montréal, Québec | 2006 | 2021 | 16 | 76 |
+| Lanctôt | Intermittent | Urbain | Montréal, Québec | 2000 | 2007 | 8 | 76 |
+| La Plume d'or | Intermittent | Urbain | Montréal, Québec | 2012 | 2021 | 10 | 75 |
+| Les Intouchables | Pilier | Urbain | Montréal, Québec | 2000 | 2019 | 17 | 72 |
+| Alto | Pilier | Urbain | Québec, Québec | 2006 | 2021 | 16 | 71 |
+| GID | Pilier | Urbain | Québec, Québec | 2003 | 2021 | 17 | 71 |
+| Goélette | Pilier | Banlieue | Saint-Bruno-de-Montarville, Québec | 2010 | 2021 | 12 | 66 |
+| Lévesque | Pilier | Urbain | Montréal, Québec | 2010 | 2021 | 12 | 63 |
+| Michel Brûlé | Pilier | Urbain | Montréal, Québec | 2007 | 2019 | 13 | 61 |
+| Québecor | Pilier | Urbain | Montréal, Québec | 2000 | 2012 | 13 | 58 |
+| Septentrion | Pilier | Urbain | Québec, Québec | 2001 | 2018 | 17 | 56 |
+| Sémaphore | Pilier | Urbain | Montréal, Québec | 2003 | 2021 | 17 | 54 |
+| La plume d'oie | Pilier | Régions | Cap-Saint-Ignace, Québec | 2000 | 2015 | 14 | 53 |
+| Véritas | Intermittent | Banlieue | Laval, Québec | 2011 | 2018 | 8 | 53 |
+| Wellan | Pilier | Banlieue | Mont-Saint-Hilaire, Québec | 2010 | 2021 | 12 | 53 |
+| Éditions de la Pleine lune | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 21 | 53 |
+| Éditions de la Francophonie | Pilier | Banlieue | Lévis, Québec | 2001 | 2017 | 15 | 52 |
+| Coups de tête | Intermittent | Urbain | Montréal, Québec | 2007 | 2014 | 8 | 48 |
+| Humanitas | Pilier | Banlieue | Brossard, Québec | 2000 | 2010 | 11 | 48 |
+| Marcel Broquet | Intermittent | Régions | Saint-Sauveur-des-Monts, Québec | 2009 | 2020 | 10 | 48 |
+| Arion | Intermittent | Banlieue | Lac-Beauport, Québec | 2000 | 2006 | 7 | 46 |
+| La Courte échelle | Pilier | Urbain | Montréal, Québec | 2000 | 2013 | 14 | 44 |
+| Trois-Pistoles | Pilier | Urbain | Montréal, Québec | 2001 | 2021 | 15 | 43 |
+| Coup d'oeil | Intermittent | Banlieue | Saint-Bruno-de-Montarville, Québec | 2012 | 2020 | 9 | 41 |
+| La Peuplade | Pilier | Régions | Chicoutimi, Québec | 2006 | 2021 | 14 | 36 |
+| Éditions du Mécène | Intermittent | Régions | Saint-Prosper, Québec | 2003 | 2011 | 8 | 36 |
+| Québec-Livres | Intermittent | Urbain | Montréal, Québec | 2012 | 2017 | 6 | 35 |
+| Société des Écrivains | Ponctuel | Urbain | Montréal, Québec | 2015 | 2018 | 4 | 35 |
+| Varia | Intermittent | Urbain | Montréal, Québec | 2000 | 2005 | 6 | 34 |
+| JKA | Ponctuel | Régions | Saint-Pie, Québec | 2008 | 2011 | 4 | 32 |
+| Les Herbes rouges | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 18 | 32 |
+| Recto-Verso | Intermittent | Urbain | Montréal, Québec | 2013 | 2018 | 6 | 32 |
+| Crescendo! | Ponctuel | Urbain | Québec, Québec | 2020 | 2021 | 2 | 31 |
+| La Semaine | Intermittent | Urbain | Montréal, Québec | 2010 | 2020 | 8 | 31 |
+| Michel Quintin | Intermittent | Régions | Waterloo, Québec | 2006 | 2020 | 10 | 31 |
+| Éditions de l'Homme | Intermittent | Urbain | Montréal, Québec | 2012 | 2021 | 9 | 30 |
+| La Mèche | Intermittent | Urbain | Montréal, Québec | 2011 | 2021 | 10 | 29 |
+| Mots en toile | Pilier | Urbain | Montréal, Québec | 2009 | 2021 | 12 | 29 |
+| Pierre Tisseyre | Pilier | Banlieue | Rosemère, Québec | 2000 | 2021 | 16 | 29 |
+| Éditions du CRAM | Pilier | Urbain | Montréal, Québec | 2000 | 2018 | 12 | 29 |
+| Point de Fuite | Intermittent | Urbain | Montréal, Québec | 2000 | 2012 | 8 | 28 |
+| Pratiko | Intermittent | Banlieue | Boisbriand, Québec | 2005 | 2017 | 10 | 27 |
+| Tête première | Intermittent | Urbain | Montréal, Québec | 2013 | 2021 | 9 | 27 |
+| ÉdiLigne | Intermittent | Banlieue | Delson, Québec | 2015 | 2021 | 6 | 26 |
+| Béliveau | Intermittent | Banlieue | Boucherville, Québec | 2008 | 2021 | 10 | 25 |
+| L'Hexagone | Intermittent | Urbain | Montréal, Québec | 2000 | 2014 | 9 | 25 |
+| Trait d'union | Ponctuel | Urbain | Montréal, Québec | 2000 | 2004 | 5 | 25 |
+| Éditions de Ta mère | Pilier | Urbain | Montréal, Québec | 2007 | 2021 | 14 | 25 |
+| Trois | Intermittent | Banlieue | Laval, Québec | 2000 | 2005 | 6 | 24 |
+| La Caboche | Intermittent | Banlieue | Beloeil, Québec | 2006 | 2016 | 9 | 23 |
+| Mémoire d'encrier | Pilier | Urbain | Montréal, Québec | 2006 | 2021 | 12 | 23 |
+| Éditions au Carré | Pilier | Urbain | Montréal, Québec | 2006 | 2020 | 12 | 23 |
+| Hamac | Ponctuel | Urbain | Québec, Québec | 2017 | 2021 | 5 | 22 |
+| KLEMT | Intermittent | Régions | Sainte-Adèle, Québec | 2012 | 2021 | 9 | 22 |
+| Monarque | Ponctuel | Banlieue | Varennes, Québec | 2020 | 2021 | 2 | 22 |
+| Corbeau | Ponctuel | Banlieue | Varennes, Québec | 2020 | 2021 | 2 | 21 |
+| Le Cheval d'août | Intermittent | Urbain | Montréal, Québec | 2014 | 2021 | 8 | 21 |
+| Éditions du CIDIHCA | Pilier | Urbain | Montréal, Québec | 2000 | 2021 | 13 | 21 |
+| Éditions de la Grenouillère | Intermittent | Régions | Saint-Sauveur-des-Monts, Québec | 2011 | 2021 | 9 | 20 |
+| Andara | Ponctuel | Régions | Morin-Heights, Québec | 2013 | 2021 | 4 | 19 |
+| Messagers des étoiles | Intermittent | Régions | Saint-Alphonse-de-Granby, Québec | 2004 | 2014 | 10 | 19 |
+| Del Busso | Intermittent | Urbain | Montréal, Québec | 2014 | 2021 | 8 | 18 |
+| Homoromance | Intermittent | Banlieue | Laval, Québec | 2016 | 2021 | 6 | 17 |
+| La Veuve noire | Ponctuel | Banlieue | Longueuil, Québec | 2003 | 2008 | 5 | 17 |
+| Flammarion | Pilier | Urbain | Montréal, Québec | 2000 | 2020 | 11 | 16 |
+| Un Monde différent | Pilier | Banlieue | Brossard, Québec | 2000 | 2021 | 12 | 16 |
+| Annika Parance | Intermittent | Urbain | Montréal, Québec | 2012 | 2021 | 9 | 15 |
+| Guérin | Intermittent | Urbain | Montréal, Québec | 2002 | 2012 | 9 | 15 |
+| Les Allusifs | Pilier | Urbain | Montréal, Québec | 2001 | 2019 | 12 | 15 |
+| Éditions de l'Étoile de mer | Intermittent | Urbain | Montréal, Québec | 2011 | 2021 | 8 | 15 |
+| Éditions de la Paix | Intermittent | Régions | Saguenay, Québec | 2001 | 2016 | 8 | 15 |
+| Émeraude | Ponctuel | Urbain | Sainte-Foy, Québec | 2000 | 2002 | 3 | 15 |
+| Les Six brumes | Pilier | Régions | Sherbrooke, Québec | 2002 | 2020 | 12 | 14 |
+| La Draiglaán | Intermittent | Régions | Saint-Ferdinand, Québec | 2013 | 2018 | 6 | 13 |
+| Éditions de l'Interdit | Ponctuel | Régions | Saint-Sauveur-des-Monts, Québec | 2010 | 2014 | 5 | 13 |
+| Archimède | Intermittent | Banlieue | Saint-Jean-sur-Richelieu, Québec | 2000 | 2018 | 7 | 12 |
+| Lo-Ély | Ponctuel | Régions | Lachute, Québec | 2019 | 2021 | 3 | 12 |
+| Publibook | Ponctuel | Urbain | Montréal, Québec | 2015 | 2017 | 3 | 12 |
+| Rodrigol | Intermittent | Urbain | Montréal, Québec | 2003 | 2019 | 8 | 12 |
+| Charlevoix | Intermittent | Régions | La Malbaie, Québec | 2012 | 2021 | 8 | 11 |
+| Clermont | Ponctuel | Banlieue | Rosemère, Québec | 2013 | 2015 | 3 | 11 |
+| Mon petit éditeur | Ponctuel | Urbain | Montréal, Québec | 2014 | 2018 | 5 | 11 |
+| À l'étage | Ponctuel | Urbain | Montréal, Québec | 2015 | 2018 | 4 | 11 |
+| Éditions de Mine | Intermittent | Régions | Magog, Québec | 2003 | 2018 | 6 | 11 |
+| L'Effet pourpre | Ponctuel | Urbain | Montréal, Québec | 2000 | 2010 | 4 | 10 |
+| Merlin | Ponctuel | Régions | Saint-Antonin, Québec | 2003 | 2020 | 5 | 10 |
+| Mine d'art | Intermittent | Régions | Berthierville, Québec | 2014 | 2020 | 7 | 10 |
+| Éditions du Remue-ménage | Intermittent | Urbain | Montréal, Québec | 2000 | 2020 | 10 | 10 |
+| Éditions logiques | Intermittent | Urbain | Montréal, Québec | 2003 | 2019 | 10 | 10 |
+| Christian Feuillette | Ponctuel | Urbain | Montréal, Québec | 2005 | 2009 | 4 | 9 |
+| Deslandes | Ponctuel | Urbain | Québec, Québec | 2001 | 2005 | 5 | 9 |
+| Exit | Ponctuel | Régions | Gatineau, Québec | 2015 | 2019 | 4 | 9 |
+| Joey Cornu | Intermittent | Banlieue | Rosemère, Québec | 2003 | 2017 | 8 | 9 |
+| Éditions des Mots livrés | Ponctuel | Régions | Donnacona, Québec | 2013 | 2019 | 4 | 9 |
+| Éditions du Quartz | Ponctuel | Régions | Rouyn-Noranda, Québec | 2012 | 2021 | 5 | 9 |
+| De Courberon | Intermittent | Régions | Saint-Patrice-de-Beaurivage, Québec | 2001 | 2019 | 7 | 8 |
+| La Grenouille bleue | Ponctuel | Urbain | Montréal, Québec | 2009 | 2010 | 2 | 8 |
+| Le Temps volé | Intermittent | Urbain | Montréal, Québec | 2000 | 2010 | 7 | 8 |
+| Les 400 coups | Ponctuel | Urbain | Montréal, Québec | 2006 | 2012 | 4 | 8 |
+| SM | Intermittent | Régions | Alma, Québec | 2003 | 2014 | 8 | 8 |
+| Sylvain Harvey | Intermittent | Urbain | Québec, Québec | 2005 | 2018 | 7 | 8 |
+| Zyeudor | Intermittent | Banlieue | Saint-Jean-sur-Richelieu, Québec | 2015 | 2021 | 6 | 8 |
+| Éditions du Marais | Intermittent | Urbain | Montréal, Québec | 2008 | 2018 | 6 | 8 |
+| Art global | Ponctuel | Urbain | Montréal, Québec | 2001 | 2014 | 5 | 7 |
+| GGC | Intermittent | Régions | Sherbrooke, Québec | 2000 | 2009 | 6 | 7 |
+| Hashtag | Ponctuel | Urbain | Montréal, Québec | 2018 | 2021 | 4 | 7 |
+| NUM | Ponctuel | Urbain | Montréal, Québec | 2014 | 2021 | 5 | 7 |
+| Éditions de la Bagnole | Ponctuel | Banlieue | Longueuil, Québec | 2005 | 2011 | 5 | 7 |
+| Adage | Ponctuel | Urbain | Montréal, Québec | 2001 | 2008 | 5 | 6 |
+| Bleu azur | Ponctuel | Régions | Chicoutimi, Québec | 2009 | 2017 | 3 | 6 |
+| Huit | Ponctuel | Urbain | Québec, Québec | 2002 | 2008 | 5 | 6 |
+| L'Oie de Cravan | Ponctuel | Urbain | Montréal, Québec | 2015 | 2021 | 4 | 6 |
+| Les heures bleues | Ponctuel | Urbain | Montréal, Québec | 2010 | 2021 | 5 | 6 |
+| Porte-Bonheur | Ponctuel | Urbain | Montréal, Québec | 2012 | 2016 | 4 | 6 |
+| Éditions d'art Le Sabord | Ponctuel | Régions | Trois-Rivières, Québec | 2003 | 2006 | 4 | 6 |
+| Édito | Ponctuel | Urbain | Montréal, Québec | 2014 | 2019 | 5 | 6 |
+| Châteaufort | Ponctuel | Banlieue | Longueuil, Québec | 2011 | 2012 | 2 | 5 |
+| Contreforts | Ponctuel | Régions | Chesterville, Québec | 2005 | 2013 | 4 | 5 |
+| Cornac | Ponctuel | Urbain | Québec, Québec | 2015 | 2017 | 3 | 5 |
+| Gensen | Ponctuel | Banlieue | Rosemère, Québec | 2006 | 2008 | 3 | 5 |
+| L'Empire Desmarais Lavigne | Ponctuel | Régions | Saint-Cyrille-de-Wendover, Québec | 2015 | 2016 | 2 | 5 |
+| Les Éditeurs en feu | Ponctuel | Urbain | Montréal, Québec | 2018 | 2020 | 3 | 5 |
+| LouD | Ponctuel | Régions | Granby, Québec | 2016 | 2017 | 2 | 5 |
+| Perro | Ponctuel | Régions | Shawinigan, Québec | 2014 | 2017 | 4 | 5 |
+| Philémon | Ponctuel | Banlieue | Longueuil, Québec | 2002 | 2013 | 4 | 5 |
+| Québec Gerbivole | Ponctuel | Régions | Rimouski, Québec | 2001 | 2011 | 5 | 5 |
+| R2 | Ponctuel | Régions | Trois-Rivières, Québec | 2012 | 2015 | 4 | 5 |
+| Sans âge | Ponctuel | Banlieue | Saint-Romuald, Québec | 2000 | 2000 | 1 | 5 |
+| Éditions d'art La Sauvagine | Ponctuel | Banlieue | Lachenaie, Québec | 2001 | 2005 | 3 | 5 |
+| Éditions des Immortels | Ponctuel | Régions | Saint-Léon-le-Grand, Québec | 2010 | 2014 | 3 | 5 |
+| Alexandre Stanké | Ponctuel | Banlieue | Carignan, Québec | 2001 | 2005 | 3 | 4 |
+| Félix | Ponctuel | Régions | Chicoutimi, Québec | 2000 | 2001 | 2 | 4 |
+| La Presse | Ponctuel | Urbain | Montréal, Québec | 2007 | 2018 | 4 | 4 |
+| Le Jour | Ponctuel | Urbain | Montréal, Québec | 2009 | 2018 | 4 | 4 |
+| Lumigny | Ponctuel | Régions | Montréal, Québec | 2016 | 2016 | 1 | 4 |
+| Popfiction | Ponctuel | Urbain | Montréal, Québec | 2009 | 2010 | 2 | 4 |
+| Poètes de brousse | Ponctuel | Urbain | Montréal, Québec | 2019 | 2021 | 3 | 4 |
+| Robert Laffont | Ponctuel | Urbain | Montréal, Québec | 2018 | 2019 | 2 | 4 |
+| TNT | Ponctuel | Urbain | Montréal, Québec | 2001 | 2018 | 3 | 4 |
+| Éditions du Passage | Ponctuel | Urbain | Montréal, Québec | 2007 | 2015 | 3 | 4 |
+| Éditions du Québécois | Ponctuel | Régions | Drummondville, Québec | 2007 | 2011 | 3 | 4 |
+| Éditions du Wampum | Ponctuel | Régions | Saint-Narcisse, Québec | 2018 | 2020 | 3 | 4 |
+| 273 | Ponctuel | Régions | Saint-Apollinaire, Québec | 2014 | 2016 | 2 | 3 |
+| Balzac | Ponctuel | Urbain | Montréal, Québec | 2000 | 2001 | 2 | 3 |
+| C. Rousseau | Ponctuel | Régions | Sherbrooke, Québec | 2003 | 2011 | 3 | 3 |
+| Cardinal | Ponctuel | Urbain | Montréal, Québec | 2013 | 2020 | 2 | 3 |
+| Dialogue Nord-Sud | Ponctuel | Urbain | Montréal, Québec | 2012 | 2014 | 3 | 3 |
+| Espoir | Ponctuel | Régions | Chicoutimi, Québec | 2007 | 2009 | 2 | 3 |
+| Grahel | Ponctuel | Banlieue | Deux-Montagnes, Québec | 2010 | 2014 | 3 | 3 |
+| Grenier | Ponctuel | Urbain | Montréal, Québec | 2008 | 2009 | 2 | 3 |
+| Hibiscus | Ponctuel | Urbain | Québec, Québec | 2008 | 2011 | 3 | 3 |
+| Onyx | Ponctuel | Régions | Saguenay, Québec | 2012 | 2012 | 1 | 3 |
+| Pochette | Ponctuel | Banlieue | Varennes, Québec | 2017 | 2017 | 1 | 3 |
+| Presses de l'Université Laval | Ponctuel | Urbain | Québec, Québec | 2015 | 2020 | 2 | 3 |
+| Samsarah Rainbow Planet | Ponctuel | Banlieue | Saint-Jean-sur-Richelieu, Québec | 2001 | 2002 | 2 | 3 |
+| Wilson & Lafleur | Ponctuel | Urbain | Montréal, Québec | 2007 | 2013 | 3 | 3 |
+| Z'ailées | Ponctuel | Urbain | Montréal, Québec | 2007 | 2009 | 2 | 3 |
+| Éditions nouvelles | Ponctuel | Urbain | Montréal, Québec | 2005 | 2008 | 3 | 3 |
+| 3 sista | Ponctuel | Régions | Gaspé, Québec | 2014 | 2016 | 2 | 2 |
+| 42e parallèle | Ponctuel | Urbain | Montréal, Québec | 2003 | 2004 | 2 | 2 |
+| 5 Continents | Ponctuel | Urbain | Montréal, Québec | 2000 | 2011 | 2 | 2 |
+| ATMA internationales | Ponctuel | Urbain | Sainte-Foy, Québec | 2005 | 2005 | 1 | 2 |
+| Aetios | Ponctuel | Urbain | Montréal, Québec | 2010 | 2010 | 1 | 2 |
+| Amérik média | Ponctuel | Urbain | Montréal, Québec | 2008 | 2008 | 1 | 2 |
+| Bellarmin | Ponctuel | Urbain | Montréal, Québec | 2009 | 2009 | 1 | 2 |
+| Bertrand Dumont | Ponctuel | Banlieue | Boucherville, Québec | 2011 | 2011 | 1 | 2 |
+| Caractère | Ponctuel | Urbain | Montréal, Québec | 2006 | 2007 | 2 | 2 |
+| Faye | Ponctuel | Banlieue | Lévis, Québec | 2001 | 2003 | 2 | 2 |
+| Feuille-T-on | Ponctuel | Urbain | Montréal, Québec | 2003 | 2003 | 1 | 2 |
+| Fond'tonne | Ponctuel | Régions | Sherbrooke, Québec | 2015 | 2016 | 2 | 2 |
+| Francine Breton | Ponctuel | Urbain | Montréal, Québec | 2000 | 2001 | 2 | 2 |
+| Hannenorak | Ponctuel | Banlieue | Wendake, Québec | 2017 | 2019 | 2 | 2 |
+| L'Archipel | Ponctuel | Urbain | Montréal, Québec | 2015 | 2019 | 2 | 2 |
+| L'Ardoise | Ponctuel | Urbain | Québec, Québec | 2001 | 2007 | 2 | 2 |
+| L'Avantage | Ponctuel | Régions | Rimouski, Québec | 2007 | 2011 | 2 | 2 |
+| La Petite barque | Ponctuel | Régions | Tingwick, Québec | 2016 | 2018 | 2 | 2 |
+| Le Murmure | Ponctuel | Régions | Joliette, Québec | 2002 | 2010 | 2 | 2 |
+| Losanges | Ponctuel | Régions | Sainte-Agathe, Québec | 2000 | 2005 | 2 | 2 |
+| Louise Courteau | Ponctuel | Régions | Saint-Zénon, Québec | 2006 | 2009 | 2 | 2 |
+| Mains libres | Ponctuel | Urbain | Montréal, Québec | 2021 | 2021 | 1 | 2 |
+| Maxime | Ponctuel | Urbain | Montréal, Québec | 2001 | 2002 | 2 | 2 |
+| ND | Ponctuel | Banlieue | Varennes, Québec | 2019 | 2019 | 1 | 2 |
+| Point du jour | Ponctuel | Banlieue | L'Assomption, Québec | 2010 | 2014 | 2 | 2 |
+| Remue-ménage | Ponctuel | Urbain | Montréal, Québec | 2018 | 2020 | 2 | 2 |
+| Sabotart | Ponctuel | Urbain | Montréal, Québec | 2015 | 2017 | 2 | 2 |
+| Sarrazin | Ponctuel | Régions | Granby, Québec | 2014 | 2014 | 1 | 2 |
+| Somme toute | Ponctuel | Urbain | Montréal, Québec | 2015 | 2016 | 2 | 2 |
+| Transit | Ponctuel | Urbain | Montréal, Québec | 2010 | 2011 | 2 | 2 |
+| Typo | Ponctuel | Urbain | Montréal, Québec | 2004 | 2010 | 2 | 2 |
+| Valiquette | Ponctuel | Banlieue | Beloeil, Québec | 2000 | 2002 | 2 | 2 |
+| Écosociété | Ponctuel | Urbain | Montréal, Québec | 2004 | 2009 | 2 | 2 |
+| Édimag | Ponctuel | Urbain | Montréal, Québec | 2004 | 2006 | 2 | 2 |
+| Éditions de l'Exil | Ponctuel | Régions | Saint-Élie-de-Caxton, Québec | 2013 | 2017 | 2 | 2 |
+| Éditions de la Maison en feu | Ponctuel | Urbain | Montréal, Québec | 2021 | 2021 | 1 | 2 |
+| Éditions du Grand ruisseau | Ponctuel | Régions | Québec, Québec | 2013 | 2015 | 2 | 2 |
+| Éditions du Lilas | Ponctuel | Régions | Vallée-Jonction, Québec | 2003 | 2010 | 2 | 2 |
+| Éditions du Méridien | Ponctuel | Urbain | Montréal, Québec | 2002 | 2005 | 2 | 2 |
+| Éditions du Quai penché | Ponctuel | Régions | Saint-Jean-Port-Joli, Québec | 2016 | 2017 | 2 | 2 |
+| Éditions du Refus | Ponctuel | Banlieue | Laval, Québec | 2009 | 2011 | 2 | 2 |
+| Académie Impact | Ponctuel | Banlieue | Lac-Beauport, Québec | 2005 | 2005 | 1 | 1 |
+| Archambault | Ponctuel | Urbain | Montréal, Québec | 2009 | 2009 | 1 | 1 |
+| Ascension | Ponctuel | Urbain | Québec, Québec | 2003 | 2003 | 1 | 1 |
+| Association nationale des éditeurs de livres (ANEL) | Ponctuel | Urbain | Montréal, Québec | 2016 | 2016 | 1 | 1 |
+| Belleprée | Ponctuel | Régions | Sainte-Adèle, Québec | 2003 | 2003 | 1 | 1 |
+| Broquet | Ponctuel | Banlieue | Saint-Constant, Québec | 2004 | 2004 | 1 | 1 |
+| Chapytre premier | Ponctuel | Urbain | Montréal, Québec | 2004 | 2004 | 1 | 1 |
+| Cogito | Ponctuel | Urbain | Montréal, Québec | 2011 | 2011 | 1 | 1 |
+| Cruciforme | Ponctuel | Urbain | Montréal, Québec | 2012 | 2012 | 1 | 1 |
+| DAMI | Ponctuel | Urbain | Montréal, Québec | 2009 | 2009 | 1 | 1 |
+| Eucalyptus | Ponctuel | Banlieue | Laval, Québec | 2009 | 2009 | 1 | 1 |
+| Glanures | Ponctuel | Régions | Shawinigan, Québec | 2000 | 2000 | 1 | 1 |
+| Glénat | Ponctuel | Urbain | Montréal, Québec | 2008 | 2008 | 1 | 1 |
+| Initiales | Ponctuel | Urbain | Montréal, Québec | 2000 | 2000 | 1 | 1 |
+| Isaac Anaïs | Ponctuel | Banlieue | Terrebonne, Québec | 2010 | 2010 | 1 | 1 |
+| J'ai vu | Ponctuel | Urbain | Québec, Québec | 2011 | 2011 | 1 | 1 |
+| J.N. | Ponctuel | Régions | Batiscan, Québec | 2017 | 2017 | 1 | 1 |
+| Jean Robert | Ponctuel | Banlieue | Saint-Jean-sur-Richelieu, Québec | 2009 | 2009 | 1 | 1 |
+| KATA | Ponctuel | Urbain | Montréal, Québec | 2021 | 2021 | 1 | 1 |
+| LOBO | Ponctuel | Régions | Saint-Hyacinthe, Québec | 2021 | 2021 | 1 | 1 |
+| La Galère | Ponctuel | Régions | Trois-Rivières, Québec | 2015 | 2015 | 1 | 1 |
+| La Morue Verte | Ponctuel | Régions | Îles-de-la-Madeleine, Québec | 2013 | 2013 | 1 | 1 |
+| La Note verte | Ponctuel | Régions | Maniwaki, Québec | 2018 | 2018 | 1 | 1 |
+| La Tournure | Ponctuel | Urbain | Montréal, Québec | 2020 | 2020 | 1 | 1 |
+| La traversée | Ponctuel | Urbain | Montréal, Québec | 2012 | 2012 | 1 | 1 |
+| Le Blanc cahier | Ponctuel | Urbain | Montréal, Québec | 2018 | 2018 | 1 | 1 |
+| Le Laps | Ponctuel | Urbain | Montréal, Québec | 2014 | 2014 | 1 | 1 |
+| Le Lézard amoureux | Ponctuel | Urbain | Québec, Québec | 2005 | 2005 | 1 | 1 |
+| Le grand fleuve | Ponctuel | Banlieue | Laval, Québec | 2000 | 2000 | 1 | 1 |
+| Les Chemins obscurs | Ponctuel | Urbain | Montréal, Québec | 2016 | 2016 | 1 | 1 |
+| Les malins | Ponctuel | Urbain | Montréal, Québec | 2010 | 2010 | 1 | 1 |
+| Les Écrits d'or | Ponctuel | Régions | Gatineau, Québec | 2000 | 2000 | 1 | 1 |
+| Les Écrits d'à côté | Ponctuel | Urbain | Québec, Québec | 2016 | 2016 | 1 | 1 |
+| Lescop | Ponctuel | Urbain | Montréal, Québec | 2001 | 2001 | 1 | 1 |
+| Liber | Ponctuel | Urbain | Montréal, Québec | 2021 | 2021 | 1 | 1 |
+| Linda Leith | Ponctuel | Urbain | Montréal, Québec | 2016 | 2016 | 1 | 1 |
+| Lux | Ponctuel | Urbain | Montréal, Québec | 2002 | 2002 | 1 | 1 |
+| MP Tresart | Ponctuel | Régions | Durham-Sud, Québec | 2017 | 2017 | 1 | 1 |
+| Magique futur | Ponctuel | Régions | Stanstead, Québec | 2012 | 2012 | 1 | 1 |
+| Michel Gosselin | Ponctuel | Régions | Rouyn-Noranda, Québec | 2021 | 2021 | 1 | 1 |
+| Michel Lafon | Ponctuel | Urbain | Montréal, Québec | 2019 | 2019 | 1 | 1 |
+| Montréal | Ponctuel | Urbain | Montréal, Québec | 2007 | 2007 | 1 | 1 |
+| Moult éditions | Ponctuel | Urbain | Montréal, Québec | 2016 | 2016 | 1 | 1 |
+| Mélibée | Ponctuel | Urbain | Montréal, Québec | 2016 | 2016 | 1 | 1 |
+| Novalis | Ponctuel | Urbain | Montréal, Québec | 2007 | 2007 | 1 | 1 |
+| Nuit blanche | Ponctuel | Banlieue | Mirabel, Québec | 2018 | 2018 | 1 | 1 |
+| Papier plume | Ponctuel | Banlieue | Lac-Beauport, Québec | 2012 | 2012 | 1 | 1 |
+| Performance | Ponctuel | Banlieue | Longueuil, Québec | 2015 | 2015 | 1 | 1 |
+| Planète Rebelle | Ponctuel | Urbain | Montréal, Québec | 2000 | 2000 | 1 | 1 |
+| Planète rebelle | Ponctuel | Urbain | Montréal, Québec | 2000 | 2000 | 1 | 1 |
+| Pratico Édition | Ponctuel | Urbain | Québec, Québec | 2021 | 2021 | 1 | 1 |
+| Prefi | Ponctuel | Banlieue | Longueuil, Québec | 2005 | 2005 | 1 | 1 |
+| Presses Panafricaines | Ponctuel | Urbain | Montréal, Québec | 2017 | 2017 | 1 | 1 |
+| Presses du Méridien | Ponctuel | Banlieue | Saint-Lambert, Québec | 2018 | 2018 | 1 | 1 |
+| Presses libres | Ponctuel | Urbain | Montréal, Québec | 2012 | 2012 | 1 | 1 |
+| Publistar | Ponctuel | Urbain | Montréal, Québec | 2013 | 2013 | 1 | 1 |
+| Pépin | Ponctuel | Banlieue | Longueuil, Québec | 2002 | 2002 | 1 | 1 |
+| Pérégrine | Ponctuel | Urbain | Montréal, Québec | 2004 | 2004 | 1 | 1 |
+| Rebis | Ponctuel | Régions | Sainte-Agathe, Québec | 2000 | 2000 | 1 | 1 |
+| Requiem pour un livre | Ponctuel | Urbain | Montréal, Québec | 2012 | 2012 | 1 | 1 |
+| Saint-Léger | Ponctuel | Urbain | Québec, Québec | 2016 | 2016 | 1 | 1 |
+| Salem | Ponctuel | Urbain | Montréal, Québec | 2004 | 2004 | 1 | 1 |
+| Sans fin | Ponctuel | Urbain | Montréal, Québec | 2018 | 2018 | 1 | 1 |
+| Sarrazine | Ponctuel | Urbain | Montréal, Québec | 2013 | 2013 | 1 | 1 |
+| Sisyphe | Ponctuel | Urbain | Montréal, Québec | 2007 | 2007 | 1 | 1 |
+| Tamam | Ponctuel | Urbain | Montréal, Québec | 2015 | 2015 | 1 | 1 |
+| Teichtner | Ponctuel | Banlieue | Laval, Québec | 2004 | 2004 | 1 | 1 |
+| Textes et contextes | Ponctuel | Régions | Sainte-Adèle, Québec | 2014 | 2014 | 1 | 1 |
+| Trécarré | Ponctuel | Urbain | Montréal, Québec | 2005 | 2005 | 1 | 1 |
+| Victor et Anaïs | Ponctuel | Banlieue | Candiac, Québec | 2020 | 2020 | 1 | 1 |
+| Vox populi | Ponctuel | Banlieue | Pincourt, Québec | 2012 | 2012 | 1 | 1 |
+| dhArt | Ponctuel | Urbain | Québec, Québec | 2014 | 2014 | 1 | 1 |
+| Éditions d'Orphée | Ponctuel | Urbain | Montréal, Québec | 2001 | 2001 | 1 | 1 |
+| Éditions d'art le Sabord | Ponctuel | Régions | Trois-Rivières, Québec | 2002 | 2002 | 1 | 1 |
+| Éditions de l'Intemporel | Ponctuel | Urbain | Montréal, Québec | 2010 | 2010 | 1 | 1 |
+| Éditions de la Noraye | Ponctuel | Régions | Lanoraie, Québec | 2010 | 2010 | 1 | 1 |
+| Éditions de la Tournure | Ponctuel | Urbain | Montréal, Québec | 2015 | 2015 | 1 | 1 |
+| Éditions des Glanures | Ponctuel | Régions | Shawinigan, Québec | 2000 | 2000 | 1 | 1 |
+| Éditions du Bouclier | Ponctuel | Régions | Chicoutimi, Québec | 2021 | 2021 | 1 | 1 |
+| Éditions du Crépuscule | Ponctuel | Régions | Sainte-Marthe-du-Cap, Québec | 2011 | 2011 | 1 | 1 |
+| Éditions du Détour | Ponctuel | Banlieue | Mont-Saint-Hilaire, Québec | 2005 | 2005 | 1 | 1 |
+| Éditions du Silence | Ponctuel | Urbain | Montréal, Québec | 2001 | 2001 | 1 | 1 |
+| Éditions du Soleil de minuit | Ponctuel | Régions | Saint-Damien-de-Brandon, Québec | 2005 | 2005 | 1 | 1 |
+| Éditions du Verseau | Ponctuel | Urbain | Montréal, Québec | 2009 | 2009 | 1 | 1 |
