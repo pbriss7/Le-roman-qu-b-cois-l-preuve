@@ -1,4 +1,4 @@
-# Annexe C — Sous-corpus mentionnes dans l'article
+# Annexe C — Sous-corpus mentionnés dans l'article
 
 Vue synthétique des sous-corpus thématiques de la section III. La taille est le nombre de livres distincts ; les tailles triennales comptent les livres parus durant chaque tranche de trois ans. La pente et le R2 proviennent d'une régression linéaire du nombre annuel de livres sur l'année. Les éditeurs principaux sont les quatre maisons ayant publié le plus de titres du sous-corpus (nombre de titres entre parenthèses).
 
