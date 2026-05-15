@@ -15,8 +15,6 @@
 !annexes/
 !annexes/**
 
-# Le script de production des annexes n'est pas verse au depot
-# (les annexes elles-memes le sont, mais pas leur fabrique).
 annexes/produire_annexes.R
 
 **/.DS_Store
