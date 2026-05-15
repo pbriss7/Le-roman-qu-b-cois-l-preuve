@@ -1,13 +1,5 @@
 # .gitignore — dépôt « Le roman québécois contemporain à l'épreuve de la
 # lecture distanciée (2000-2021) ».
-#
-# Stratégie : tout est exclu par défaut. Seuls les fichiers énumérés dans
-# README.md (et le présent .gitignore) sont versionnés. Cette consigne
-# stricte évite qu'un élément non rediffusable (notices complètes BAnQ,
-# tables dérivées) ou un fichier de travail (versions intermédiaires du
-# script, annexes de l'article, projet RStudio, PDF de l'article) ne se
-# retrouve par mégarde sur GitHub. Pour ajouter un nouveau fichier au
-# dépôt, le déclarer ci-dessous en plus du README.
 
 *
 
@@ -19,11 +11,8 @@
 !figure_1_titres_par_annee.png
 !figure_2_amour_amitie.png
 
-# annexes/ requiert DEUX lignes : la premiere reinclut le dossier lui-meme
-# (sans elle Git ne descend pas dedans), la seconde reinclut son contenu.
+# annexes
 !annexes/
 !annexes/**
 
-# Toujours exclure les fichiers macOS, y compris ceux qui pourraient
-# apparaitre dans annexes/ apres la re-inclusion ci-dessus.
 **/.DS_Store
