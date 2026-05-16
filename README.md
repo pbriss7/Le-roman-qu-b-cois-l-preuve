@@ -1,10 +1,10 @@
 # Le roman québécois contemporain à l'épreuve de la lecture distanciée (2000-2021)
 
-Données et code accompagnant l'article du même titre, à paraître dans la revue
+Données et code accompagnant l'article du même titre, soumis pour publication à la revue
 *COnTEXTES*, dossier **« Lecture distante, lecture rapprochée et
 intermédiaires ? »**, dirigé par Karol'Ann Boivin et Julien Lefort-Favreau.
 
-**Auteurs de l'article :** Michel Biron (Université McGill) et Pascal Brissette (Université McGill).
+**Auteurs de l'article :** Pascal Brissette (Université McGill) et Michel Biron (Université McGill).
 
 **Auteur du code et responsable du dépôt :** Pascal Brissette.
 
@@ -57,7 +57,7 @@ d'édition, année, descripteurs de sujet — ne peuvent être rediffusées** et
 ne figurent donc pas dans ce dépôt.
 
 En conséquence, `methode.R` **n'est pas exécutable en l'état**. Sa vocation
-n'est pas la reproduction des résultats, mais l'exposition de la **méthode** :
+n'est pas la reproduction des résultats, mais l'exposition de la **démarche** :
 il montre, pour chaque résultat de l'article, comment il a été obtenu. Le script
 suppose un sous-répertoire `data/` contenant les tables de travail
 (`livres.csv`, `sujets.csv`, `genres.csv`, `categories_geo.csv`) ; les colonnes
@@ -70,7 +70,7 @@ projet** : le premier est dérivé par un pipeline de normalisation des genres,
 le second est une classification géographique manuelle des lieux d'édition.
 Ils ne sont pas reconstituables à partir des seules notices.
 
-Les **agrégats statistiques** évoqués dans `methode.R` (nombres de titres par
+Les **tableaux statistiques** évoqués dans `methode.R` (nombres de titres par
 segment éditorial, distributions annuelles de descripteurs, pentes de
 tendance) ne constituent pas une reproduction de la base : ils peuvent être
 librement diffusés, et sont versés dans les annexes statistiques qui
@@ -102,8 +102,8 @@ qu'imprimés ; la construction des deux figures de l'article y figure également
 ## Limites
 
 - `corpus_notices.csv` fige le corpus dans l'état où il a servi à l'article. Le
-  catalogue de BAnQ, lui, continue d'évoluer : une reconstitution ultérieure
-  des notices pourra donc différer à la marge de celle utilisée ici.
+  catalogue de BAnQ, pour sa part, continue d'évoluer : une reconstitution ultérieure
+  des notices pourrait donc différer de celle utilisée ici.
 
 ---
 
@@ -112,8 +112,7 @@ qu'imprimés ; la construction des deux figures de l'article y figure également
 Trois annexes statistiques accompagnent l'article :
 
 - la table des éditeurs du corpus
-- la distribution annuelle des descripteurs
-principaux
+- la distribution annuelle des descripteurs principaux
 - une vue synthétique des sous-corpus thématiques
 
 ---
