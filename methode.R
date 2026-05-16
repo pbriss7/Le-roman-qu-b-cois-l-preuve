@@ -3,7 +3,7 @@
 # (2000-2021) — Démarche d'analyse
 #
 # Auteur du code : Pascal Brissette (Université McGill)
-# Article pour la revue COnTEXTES. Co-auteurs: Michel Biron et Pascal Brissette.
+# Article pour la revue COnTEXTES. Co-auteurs: Pascal Brissette et Michel Biron.
 # Dossier "Lecture distante, lecture rapprochée et intermédiaires?",
 # piloté par Karol'Ann Boivin et Julien Lefort-Favreau
 # -----------------------------------------------------------------------------
