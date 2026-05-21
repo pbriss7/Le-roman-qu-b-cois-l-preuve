@@ -18,7 +18,7 @@ Ce dépôt suit un modèle minimaliste :
 
 | Fichier | Description |
 |---|---|
-| `corpus_notices.csv` | Table d'ancrage du corpus : une ligne par roman, deux colonnes (numéro de notice, ISBN). |
+| `corpus_notices.csv` | Table d'ancrage du corpus : une ligne par roman, trois colonnes (identifiant interne `AR_id`, numéro de notice, ISBN). |
 | `methode.R` | Script R documenté qui expose, dans l'ordre de l'article, la démarche d'analyse — comment chaque résultat et chacune des deux figures ont été obtenus. |
 | `figure_1_titres_par_annee.png` | Figure 1 de l'article (distribution annuelle des titres), produite par `methode.R`. |
 | `figure_2_amour_amitie.png` | Figure 2 de l'article (fréquence relative des motifs « \\bamour » et « amitié »), produite par `methode.R`. |
@@ -41,10 +41,14 @@ sous la supervision de Michel Biron.
 
 | Colonne | Description |
 |---|---|
-| `numero_notice` | Numéro de notice BAnQ (chaîne de caractères, zéros de tête conservés). Un même numéro peut couvrir plusieurs volumes d'une série ; il n'est donc pas unique. Une valeur est manquante. |
+| `AR_id` | Identifiant interne du projet (entier), unique pour chaque ligne. Il sert de clé de jointure dans `methode.R` ; il n'a pas de signification hors du présent corpus. |
+| `Numero_notice` | Numéro de notice BAnQ (chaîne de caractères, zéros de tête conservés). Un même numéro peut couvrir plusieurs volumes d'une série ; il n'est donc pas unique. Une valeur est manquante. |
 | `ISBN` | ISBN du livre tel que consigné dans la notice. Présent pour chaque ligne. Le format n'est pas homogène (ISBN-10, ISBN-13, et quelques valeurs non normalisées héritées du catalogue). |
 
-Le fichier compte 7 813 lignes (une par roman du corpus analysé).
+Le fichier compte 7 813 lignes (une par roman du corpus analysé). C'est le
+couple `Numero_notice` / `ISBN` qui sert d'ancrage pour interroger BAnQ ;
+`AR_id` ne fait que relier chaque ligne aux identifiants utilisés dans
+`methode.R`.
 
 
 ---
