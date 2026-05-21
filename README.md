@@ -28,7 +28,7 @@ Ce dépôt suit un modèle minimaliste :
 
 ## Le corpus
 
-L'article travaille sur un corpus d'environ 7 800 romans québécois pour adultes
+L'article utilise un corpus d'environ 7 800 romans québécois pour adultes
 et adolescents, parus entre 2000 et 2021. Ce corpus résulte d'une liste 
 initiale de plus de 24 000 titres fournie par les
 bibliothécaires de Bibliothèque et Archives nationales du Québec (BAnQ),
@@ -55,7 +55,7 @@ couple `Numero_notice` / `ISBN` qui sert d'ancrage pour interroger BAnQ ;
 
 ## Conditions de diffusion des données
 
-BAnQ a autorisé la diffusion de la seule table à deux champs
+BAnQ a autorisé la diffusion de la seule table à trois champs
 (`corpus_notices.csv`). **Les notices complètes — titre, auteur, éditeur, lieu
 d'édition, année, descripteurs de sujet — ne peuvent être rediffusées** et 
 ne figurent donc pas dans ce dépôt.
@@ -123,7 +123,7 @@ Trois annexes statistiques accompagnent l'article :
 
 ## Citation suggérée
 
-Biron, M. et Brissette, P. (à paraître). « Le roman québécois contemporain à
+Brissette, P. et Biron, M. (à paraître). « Le roman québécois contemporain à
 l'épreuve de la lecture distanciée (2000-2021) ». *COnTEXTES*, dossier
 « Lecture distante, lecture rapprochée et intermédiaires ? », dir.
 K.-A. Boivin et J. Lefort-Favreau.
